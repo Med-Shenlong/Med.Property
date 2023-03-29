@@ -1,7 +1,5 @@
 {
-    //show git folder
-"files.exclude": {
-    "**/.git": false, 
-},
-
+    "files.exclude": {
+        "**/.git": false,
+    },
 }
